@@ -224,7 +224,7 @@ export default function App() {
 
           <div>
             <h1 style={{ margin: 0, fontSize: 18, fontWeight: 800 }}>
-              Control de Liquidaciones
+              Control de Liquidaciones Lazaro****
             </h1>
             <p style={{ margin: 0, fontSize: 12, opacity: 0.7 }}>
               Validación de recibos de sueldo
